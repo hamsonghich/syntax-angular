@@ -1,0 +1,6 @@
+- creater lazy loading
+  ng generate module customers1 --route customers2 --module app.module
+   
+   chú thích: 
+       customers1: tên mododule
+       customers2: tên router
